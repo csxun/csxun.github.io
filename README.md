@@ -39,7 +39,7 @@
         </header>
 
 
-        <img src="D:\Develop\VsCode\Itec4020A1\pic1.jpg" alt="Image Description" class="image">
+        <img src="[D:\Develop\VsCode\Itec4020A1\pic1.jpg](https://github.com/csxun/csxun.github.io/blob/main/Itec4020A1/pic1.jpg)" alt="Image Description" class="image">
 
 
 
